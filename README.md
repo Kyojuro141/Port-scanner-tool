@@ -1,1 +1,1 @@
-# A lightweight, command-line based Port Scanner Tool built with Python. This tool allows users to scan a target IP address for open ports within a specified range and attempts basic banner grabbing to identify services running on those ports.
+# Port-Scanner-tool
